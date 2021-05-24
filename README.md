@@ -11,5 +11,9 @@
 <br/>
 
 # 미리보기
-> ![ex](https://user-images.githubusercontent.com/77667889/119287856-64551500-bc82-11eb-839d-8d87fab17214.gif)
+> ![preview](https://user-images.githubusercontent.com/77667889/119287856-64551500-bc82-11eb-839d-8d87fab17214.gif)
 
+<br/>
+
+# Springboot 설정
+> ![set](https://user-images.githubusercontent.com/77667889/119395492-8ac09200-bd0e-11eb-86ce-57d6e589bbe5.PNG)
